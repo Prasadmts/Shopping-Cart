@@ -1,4 +1,4 @@
 # Shopping-Cart
 
 # Deployment Link :-
-    https://prasadmts.github.io/Shopping-Cart/
+https://prasadmts.github.io/Shopping-Cart/
